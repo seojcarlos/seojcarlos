@@ -92,6 +92,14 @@
 
 ###
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/seojcarlos/seojcarlos/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/2xsryxtc6roo4ktzs37tm4og6">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2xsryxtc6roo4ktzs37tm4og6&count=3&unique=true" alt="Spotify recently played"  />
