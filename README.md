@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-<a href="https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=branding" target="_blank">
-</a>
-  <img src="https://img.shields.io/static/v1?message=convertiam.com&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="convertiam"  />
+  <a href="https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=branding" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=convertiam.com&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="convertiam"  />
+  </a>
   <a href="mailto:jcarlos@convertiam.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
