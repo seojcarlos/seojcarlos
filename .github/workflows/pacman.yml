@@ -17,18 +17,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman SVG (light)
+      - name: Ensure output directory exists
+        run: mkdir -p output
+
+      - name: Generate pacman SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/pacman-contribution-graph.svg
-
-      - name: Generate pacman SVG (dark)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
             output/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Commit & Push
