@@ -2,7 +2,7 @@
 
 # Juan Carlos Díaz 
 
-### CEO @ [Convertiam](https://convertiam.com) · Marketing Technologist · Fullstack Developer
+### CEO @ [Convertiam](https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_cta&utm_content=hero) · Marketing Technologist · Fullstack Developer
 
 [![Website](https://img.shields.io/badge/Convertiam.com-BE123C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=branding)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosdiazsanchez/)
@@ -16,7 +16,7 @@
 
 ## 👋 Quién soy
 
-CEO de [Convertiam](https://convertiam.com), agencia Google Partner especializada en tracking avanzado, atribución y medición digital desde 2011.
+CEO de [Convertiam](https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_cta&utm_content=quien_soy), agencia Google Partner especializada en tracking avanzado, atribución y medición digital desde 2011.
 
 Mi nicho: el punto exacto donde marketing + tecnología + datos se convierten en crecimiento real.
 No solo implemento — diagnostico, optimizo y escalo. Desde el primer clic hasta la conversión final.
