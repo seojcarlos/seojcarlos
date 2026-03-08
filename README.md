@@ -1,92 +1,124 @@
-<h2 align="left">👋 Hola, soy Juan Carlos Díaz, CEO de Convertiam.com y especialista técnico en 📊 DataDrive, una agencia enfocada en marketing basado en datos.</h2>
+<div align="center">
 
-###
+# Juan Carlos Díaz · seojcarlos
 
-<p align="left">🧩 Me dedico a resolver problemas complejos de medición digital y atribución de conversiones, implementando soluciones técnicas que garantizan una trazabilidad fiable, precisa y accionable.<br><br>🔧 Trabajo con herramientas como:<br>🏷️ Google Tag Manager (Web & Server-side)<br>📈 GA4 (Google Analytics 4)<br>🧠 Meta CAPI<br>🛰️ Google Ads (conversiones y optimización)<br>🔌 APIs personalizadas e integraciones avanzadas<br><br>🛠️ Resuelvo desde errores críticos hasta configuraciones multi-plataforma complejas, optimizando la trazabilidad del usuario en todo el funnel, desde el primer clic hasta la conversión final.<br><br>💻 Como desarrollador Fullstack, combino experiencia en:<br>🌐 Desarrollo web completo (frontend + backend)<br>🧠 Especialización técnica en medición, atribución y analítica avanzada<br><br>🎯 Mi objetivo: que cada dato tenga sentido, cada conversión esté correctamente atribuida, y que la medición se convierta en una herramienta de crecimiento real.<br><br>🚀 Mi propuesta diferencial:<br><br>No solo resuelvo la parte técnica: aporto visión estratégica, experiencia en escalado de campañas y capacidad de transformar datos en decisiones rentables.<br>Combino tecnología + marketing + negocio, para que las marcas no solo midan mejor, sino vendan más y crezcan con datos reales.</p>
+### CEO @ [Convertiam](https://convertiam.com) · Marketing Technologist · Fullstack Developer
 
-###
+[![Website](https://img.shields.io/badge/Convertiam.com-BE123C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=branding)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosdiazsanchez/)
+[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AyudaGTM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcarlos@convertiam.com)
+[![Location](https://img.shields.io/badge/Barcelona,_Spain-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://convertiam.com)
+
+</div>
+
+---
+
+## 👋 Quién soy
+
+CEO de [Convertiam](https://convertiam.com), agencia Google Partner especializada en tracking avanzado, atribución y medición digital desde 2012.
+
+Mi nicho: el punto exacto donde marketing + tecnología + datos se convierten en crecimiento real.
+No solo implemento — diagnostico, optimizo y escalo. Desde el primer clic hasta la conversión final.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eosin-nine-69.vercel.app/api?username=seojcarlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="160" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=seojcarlos&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="php logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="vuejs logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="nextjs logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="38" alt="tailwindcss logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="express logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="38" alt="nestjs logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="38" alt="symfony logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" alt="firebase logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo" />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="38" alt="kotlin logo" />
-</div>
+## 🛠️ Stack técnico
 
-###
+### 📊 Medición & Tracking
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
+![Meta CAPI](https://img.shields.io/badge/Meta_CAPI-1877F2?style=flat-square&logo=meta&logoColor=white)
+![Consent Mode](https://img.shields.io/badge/Consent_Mode_V2-34A853?style=flat-square&logo=google&logoColor=white)
+![GTM Server-Side](https://img.shields.io/badge/GTM_Server--Side-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white)
 
-<div align="center">
-  <a href="https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=branding" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=convertiam.com&logo=googlechrome&label=&color=BE123C&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="convertiam" />
-  </a>
-  <a href="mailto:jcarlos@convertiam.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo" />
-  </a>
-  <a href="https://www.youtube.com/c/AyudaGTM" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/juancarlosdiazsanchez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo" />
-  </a>
-</div>
+### 💻 Desarrollo
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-###
+### 🗄️ Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### ☁️ Infraestructura & Deploy
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Proyectos propios
+
+### 🍪 [Consentiam](https://consentiam.eu) — CMP ultraligero para GDPR
+> El banner de cookies más rápido del mercado. Alternativa real a Cookiebot y CookieYes.
+
+- Google Consent Mode V2 nativo
+- Carga < 5KB · Sin bloqueo de render
+- Built with Next.js + Edge Functions
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR_Compliant-4CAF50?style=flat-square)
+![Live](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
+
+---
+
+### ⏱️ [Validiam](https://validiam.eu) — Control horario digital para empresas
+> Fichaje laboral 100% legal (RD 8/2019). Simple para el empleado, tranquilidad para el empresario.
+
+- Fichaje offline con sincronización automática
+- Acceso directo para inspectores de trabajo
+- +500 empresas · Setup en 5 minutos
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Legal](https://img.shields.io/badge/RD_8%2F2019-0A66C2?style=flat-square)
+![Live](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
+
+---
+
+### 🔗 [Conectiam](https://conectiam.eu) — Atribución de leads y conversiones offline
+> Cierra el loop entre tus campañas digitales y las ventas que pasan fuera de la web.
+
+- Conecta CRM, llamadas y visitas físicas con el origen de campaña
+- Compatible con GA4, Google Ads y Meta
+- Ideal para sectores con ciclos de venta largos
+
+![API](https://img.shields.io/badge/API_First-FF6B35?style=flat-square)
+![Attribution](https://img.shields.io/badge/Offline_Attribution-4285F4?style=flat-square)
+![Beta](https://img.shields.io/badge/status-beta-orange?style=flat-square)
+
+---
+
+## 🏢 Convertiam — Google Partner desde 2012
+
+> +100M€ gestionados en Google Ads · +1.000 implementaciones técnicas
+
+Especialidades: GTM Web & Server-Side · Enhanced Conversions · GA4 · Meta CAPI · Consent Mode V2
+
+¿Tienes un problema de tracking que nadie ha podido resolver? **[Hablamos.](https://convertiam.com)**
+
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/seojcarlos/seojcarlos/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
   <a href="https://open.spotify.com/user/2xsryxtc6roo4ktzs37tm4og6">
