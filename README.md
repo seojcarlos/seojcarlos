@@ -5,7 +5,7 @@
 ### CEO @ [Convertiam](https://convertiam.com) · Marketing Technologist · Fullstack Developer
 
 [![Website](https://img.shields.io/badge/Convertiam.com-BE123C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://convertiam.com/?utm_source=github&utm_medium=profile&utm_campaign=branding)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosdiazsanchez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosdiazs anchez/)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AyudaGTM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcarlos@convertiam.com)
 [![Location](https://img.shields.io/badge/Barcelona,_Spain-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://convertiam.com)
@@ -41,8 +41,10 @@ No solo implemento — diagnostico, optimizo y escalo. Desde el primer clic hast
 ![Meta CAPI](https://img.shields.io/badge/Meta_CAPI-1877F2?style=flat-square&logo=meta&logoColor=white)
 ![Consent Mode](https://img.shields.io/badge/Consent_Mode_V2-34A853?style=flat-square&logo=google&logoColor=white)
 ![GTM Server-Side](https://img.shields.io/badge/GTM_Server--Side-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white)
+![Tallium](https://img.shields.io/badge/Tallium-FF6B35?style=flat-square&logoColor=white)
 
 ### 💻 Desarrollo
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -110,7 +112,9 @@ No solo implemento — diagnostico, optimizo y escalo. Desde el primer clic hast
 
 Especialidades: GTM Web & Server-Side · Enhanced Conversions · GA4 · Meta CAPI · Consent Mode V2
 
-¿Tienes un problema de tracking que nadie ha podido resolver? **[Hablamos.](https://convertiam.com)**
+¿Tienes un problema de tracking que nadie ha podido resolver?
+
+**[Hablamos.](https://convertiam.com/contacto.html?utm_source=github&utm_medium=profile&utm_campaign=readme_cta&utm_content=hablamos_cta)**
 
 ---
 
