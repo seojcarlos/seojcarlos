@@ -106,6 +106,23 @@ No solo implemento — diagnostico, optimizo y escalo. Desde el primer clic hast
 
 ---
 
+## 🌍 Contribuciones Open Source
+
+Contribuciones activas a proyectos que uso en producción:
+
+| Proyecto | PR | Descripci&oacute;n | Estado |
+|----------|-----|-------------|--------|
+| [Vercel AI SDK](https://github.com/vercel/ai) (23k+ stars) | [#14135](https://github.com/vercel/ai/pull/14135) | Fix: providerOptions camelCase en chat/completion | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) (33k+ stars) | [#5592](https://github.com/drizzle-team/drizzle-orm/pull/5592) | Fix: regex para enum defaults con guiones en PostgreSQL | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Rybbit Analytics](https://github.com/rybbit-io/rybbit) (5k+ stars) | [#963](https://github.com/rybbit-io/rybbit/pull/963) | Fix: session duration con filtro por canal | ![Merged](https://img.shields.io/badge/-merged-purple?style=flat-square) |
+| [MDN Web Docs](https://github.com/mdn/content) (9k+ stars) | [#43657](https://github.com/mdn/content/pull/43657) | Fix: duplicated word en CSP violation docs | ![Merged](https://img.shields.io/badge/-merged-purple?style=flat-square) |
+| [React.dev](https://github.com/reactjs/react.dev) (11k+ stars) | [#8395](https://github.com/reactjs/react.dev/pull/8395) | Fix: aria-label en Sandpack toolbar links | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Storybook](https://github.com/storybookjs/storybook) (86k+ stars) | [#34455](https://github.com/storybookjs/storybook/pull/34455) | Fix: duplicate words en docs | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Grafana Synthetic Monitoring](https://github.com/grafana/synthetic-monitoring-app) | [#1644](https://github.com/grafana/synthetic-monitoring-app/pull/1644) | Fix: text overlap en check list view | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Umami Analytics](https://github.com/umami-software/umami) (32k+ stars) | [#4107](https://github.com/umami-software/umami/issues/4107#issuecomment-4187413200) | Validaci&oacute;n independiente del fix de timezone en Revenue chart | ![Reviewed](https://img.shields.io/badge/-reviewed-green?style=flat-square) |
+
+---
+
 ## 🏢 Convertiam — Google Partner desde 2012
 
 > +100M€ gestionados en Google Ads · +1.000 implementaciones técnicas
