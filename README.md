@@ -112,7 +112,7 @@ Contribuciones activas a proyectos que uso en producción:
 
 | Proyecto | PR | Descripci&oacute;n | Estado |
 |----------|-----|-------------|--------|
-| [Vercel AI SDK](https://github.com/vercel/ai) (23k+ stars) | [#14135](https://github.com/vercel/ai/pull/14135) | Fix: providerOptions camelCase en chat/completion | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Vercel AI SDK](https://github.com/vercel/ai) (23k+ stars) | [#14135](https://github.com/vercel/ai/pull/14135) | Fix: providerOptions camelCase en chat/completion | ![Merged](https://img.shields.io/badge/-open-blue?style=flat-square) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) (33k+ stars) | [#5592](https://github.com/drizzle-team/drizzle-orm/pull/5592) | Fix: regex para enum defaults con guiones en PostgreSQL | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
 | [Rybbit Analytics](https://github.com/rybbit-io/rybbit) (5k+ stars) | [#963](https://github.com/rybbit-io/rybbit/pull/963) | Fix: session duration con filtro por canal | ![Merged](https://img.shields.io/badge/-merged-purple?style=flat-square) |
 | [MDN Web Docs](https://github.com/mdn/content) (9k+ stars) | [#43657](https://github.com/mdn/content/pull/43657) | Fix: duplicated word en CSP violation docs | ![Merged](https://img.shields.io/badge/-merged-purple?style=flat-square) |
