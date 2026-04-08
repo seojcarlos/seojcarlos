@@ -119,6 +119,8 @@ Contribuciones activas a proyectos que uso en producción:
 | [React.dev](https://github.com/reactjs/react.dev) (11k+ stars) | [#8395](https://github.com/reactjs/react.dev/pull/8395) | Fix: aria-label en Sandpack toolbar links | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
 | [Storybook](https://github.com/storybookjs/storybook) (86k+ stars) | [#34455](https://github.com/storybookjs/storybook/pull/34455) | Fix: duplicate words en docs | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
 | [Grafana Synthetic Monitoring](https://github.com/grafana/synthetic-monitoring-app) | [#1644](https://github.com/grafana/synthetic-monitoring-app/pull/1644) | Fix: text overlap en check list view | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Umami Analytics](https://github.com/umami-software/umami) (32k+ stars) | [#4139](https://github.com/umami-software/umami/pull/4139) | Fix: incluir url_query en el informe de p&aacute;ginas (PostgreSQL + ClickHouse) | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
+| [Umami Analytics](https://github.com/umami-software/umami) (32k+ stars) | [#4140](https://github.com/umami-software/umami/pull/4140) | Fix: timestamps NaN rompen event charts en Firefox | ![Open](https://img.shields.io/badge/-open-blue?style=flat-square) |
 | [Umami Analytics](https://github.com/umami-software/umami) (32k+ stars) | [#4107](https://github.com/umami-software/umami/issues/4107#issuecomment-4187413200) | Validaci&oacute;n independiente del fix de timezone en Revenue chart | ![Reviewed](https://img.shields.io/badge/-reviewed-green?style=flat-square) |
 
 ---
