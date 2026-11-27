@@ -5,19 +5,23 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: seojcarlos
           outputs: |
-            dist/snake.svg
+            dist/snake.svg?color_snake=#BE123C
+            dist/snake-dark.svg?palette=github-dark&color_snake=#F43F5E
 
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
