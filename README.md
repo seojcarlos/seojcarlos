@@ -111,7 +111,6 @@ Contribuyo a las herramientas que uso en producción.
 | [**Drizzle ORM**](https://github.com/drizzle-team/drizzle-orm)<br>![stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm?style=flat-square&label=%E2%98%85&color=21262D) | Regex de enum defaults con guiones en PostgreSQL | [![#5592](https://img.shields.io/github/pulls/detail/state/drizzle-team/drizzle-orm/5592?style=flat-square&label=%235592)](https://github.com/drizzle-team/drizzle-orm/pull/5592) |
 | [**React.dev**](https://github.com/reactjs/react.dev)<br>![stars](https://img.shields.io/github/stars/reactjs/react.dev?style=flat-square&label=%E2%98%85&color=21262D) | `aria-label` en los enlaces de la toolbar de Sandpack | [![#8395](https://img.shields.io/github/pulls/detail/state/reactjs/react.dev/8395?style=flat-square&label=%238395)](https://github.com/reactjs/react.dev/pull/8395) |
 | [**Rybbit**](https://github.com/rybbit-io/rybbit)<br>![stars](https://img.shields.io/github/stars/rybbit-io/rybbit?style=flat-square&label=%E2%98%85&color=21262D) | Duración de sesión con filtro por canal | [![#963](https://img.shields.io/github/pulls/detail/state/rybbit-io/rybbit/963?style=flat-square&label=%23963)](https://github.com/rybbit-io/rybbit/pull/963) |
-| [**Grafana Synthetic Monitoring**](https://github.com/grafana/synthetic-monitoring-app) | Solapamiento de texto en la vista de checks | [![#1644](https://img.shields.io/github/pulls/detail/state/grafana/synthetic-monitoring-app/1644?style=flat-square&label=%231644)](https://github.com/grafana/synthetic-monitoring-app/pull/1644) |
 
 <details>
 <summary>Documentación y otras contribuciones</summary>
@@ -130,12 +129,12 @@ Contribuyo a las herramientas que uso en producción.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-nine-69.vercel.app/api?username=seojcarlos&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues&locale=es&border_radius=6&bg_color=0D1117&border_color=30363D&title_color=F43F5E&icon_color=F43F5E&ring_color=F43F5E&text_color=C9D1D9" />
-  <img height="165" alt="Estadísticas de GitHub" src="https://github-readme-stats-eosin-nine-69.vercel.app/api?username=seojcarlos&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues&locale=es&border_radius=6&bg_color=FFFFFF&border_color=D0D7DE&title_color=BE123C&icon_color=BE123C&ring_color=BE123C&text_color=1F2328" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-nine-69.vercel.app/api?username=seojcarlos&show_icons=true&include_all_commits=true&count_private=true&hide=contribs%2Cissues&locale=es&border_radius=6&bg_color=0D1117&border_color=30363D&title_color=F43F5E&icon_color=F43F5E&ring_color=F43F5E&text_color=C9D1D9" />
+  <img width="49%" alt="Estadísticas de GitHub" src="https://github-readme-stats-eosin-nine-69.vercel.app/api?username=seojcarlos&show_icons=true&include_all_commits=true&count_private=true&hide=contribs%2Cissues&locale=es&border_radius=6&bg_color=FFFFFF&border_color=D0D7DE&title_color=BE123C&icon_color=BE123C&ring_color=BE123C&text_color=1F2328" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seojcarlos&locale=es&mode=daily&border_radius=6&background=0D1117&border=30363D&stroke=30363D&ring=F43F5E&fire=F43F5E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F43F5E&sideLabels=8B949E&dates=8B949E" />
-  <img height="165" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=seojcarlos&locale=es&mode=daily&border_radius=6&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=BE123C&fire=BE123C&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=BE123C&sideLabels=59636E&dates=59636E" />
+  <img width="49%" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=seojcarlos&locale=es&mode=daily&border_radius=6&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=BE123C&fire=BE123C&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=BE123C&sideLabels=59636E&dates=59636E" />
 </picture>
 
 <br><br>
